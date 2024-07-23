@@ -1,2 +1,2 @@
 This is the local repository which i made by cloning the remote repository
-This is the change made in file1 by main branch
+Change done by develop branch in file1.txt
